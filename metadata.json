@@ -1,0 +1,5 @@
+{
+  "name": "Attenda",
+  "description": "An offline-first attendance tracker with ICS calendar support, analytics, and smart attendance planning.",
+  "requestFramePermissions": []
+}
